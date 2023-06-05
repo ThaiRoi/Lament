@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819411678311",
+    "project_id": "notitest-12b08",
+    "storage_bucket": "notitest-12b08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819411678311:android:b0384f94b8183d669f50c2",
+        "android_client_info": {
+          "package_name": "com.lament"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819411678311-8ucqjdbc07v4h1sk692f1rrumi3arb8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2K7yTMFKV-o6xBIWimbQMD81ynIdk1E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819411678311-8ucqjdbc07v4h1sk692f1rrumi3arb8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
